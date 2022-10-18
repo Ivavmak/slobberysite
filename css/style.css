@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 .about__title {
     margin-bottom: 10px;
     
-    font-size: 44px;
+    font-size: 22px;
     font-weight: 700;
     color: #03031B;
     text-transform: uppercase;
@@ -169,19 +169,33 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about__text {
-    font-size: 24px;
+    font-size: 18px;
     color: #03031B;
     margin-right: 20px;
     margin-bottom: 20px;
 }
 
 .about__stage {
-    font-size: 24px;
+    font-size: 14px;
     color: #fff;
     font-weight: 700;
     background-color: #3C27FE;
+    width: 180px;
     border-radius: 4px;
     margin-bottom: 20px;
+    margin-left: 15px;
+    position: absolute;
+}
+
+.about__stagefinished {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 700;
+    background-color: #03031B;
+    width: 180px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-left: 200px;
 }
 
 /* Full Game About */
