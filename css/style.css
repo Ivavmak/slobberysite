@@ -111,12 +111,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section__description {
-    font-size: 34px;
+    font-size: 24px;
     color: #fff;
 }
 
 .section__title {
-    font-size: 54px;
+    font-size: 34px;
     font-weight: 700;
     color: #fff;
     text-transform: uppercase;
@@ -209,12 +209,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fullgameabout__description {
-    font-size: 34px;
+    font-size: 24px;
     color: #fff;
 }
 
 .fullgameabout__title {
-    font-size: 54px;
+    font-size: 34px;
     font-weight: 700;
     color: #fff;
     text-transform: uppercase;
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fullgameabout__platforms {
-    font-size: 34px;
+    font-size: 24px;
     color: #fff;
     margin-top: 40px;
 }
@@ -265,6 +265,14 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 15px;
     margin-bottom: 50px;
 }
+
+/* Title */
+
+.title__logo {
+    height: 50%;
+    width: 50%;
+}
+
 
 
 
